@@ -101,4 +101,7 @@ Select an option: 1
 
 Apache License
 
+## Desarrollador
+#### Mario Alejandro Gonzalez Cardona 
+
 **Free Software, Hell Yeah!**
