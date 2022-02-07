@@ -29,11 +29,11 @@ En este proyecto se enlistan las siguientes librerías para poder desarrollar lo
 | sqlparse | 0.4.2 |
 | tabulate | 0.8.9 |
 | tzdata | 2021.5 |
-Para poder ejecutar el programa es neceario crear un ambiente virtual e instalar las dependencias en el archivo requirements.txt:
+
 
 ## Instalación
 
-Instale las dependencias de requirements.txt y ejecute main.py.
+Para poder ejecutar el programa es neceario crear un ambiente virtual e instalar las dependencias en el archivo requirements.txt, ejecute main.py.
 
 ```sh
 virtualenv env
