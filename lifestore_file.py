@@ -4,6 +4,7 @@ lifestore_searches = [id_search, id product]
 lifestore_sales = [id_sale, id_product, score (from 1 to 5), date, refund (1 for true or 0 to false)]
 lifestore_products = [id_product, name, price, category, stock]
 """
+import csv
 
 lifestore_products = [
     [1, 'Procesador AMD Ryzen 3 3300X S-AM4, 3.80GHz, Quad-Core, 16MB L2 Cache', 3019, 'procesadores', 16],
@@ -1425,3 +1426,17 @@ lifestore_searches = [
     [1032, 95],
     [1033, 95]
 ]
+
+# field names 
+# fields = ['id_product', 'name', 'price', 'category', 'stock']
+# fields=['id_sale', 'id_product', 'score' , 'date', 'refund' ]
+fields=['id_search', 'id_product']
+# data rows of csv file 
+
+  
+with open('core_search.csv', 'w',encoding="utf-8",newline='') as f:
+      
+    # using csv.writer method from CSV package
+    write = csv.writer(f, delimiter='|')
+    write.writerow(fields)
+    write.writerows(lifestore_searches)
