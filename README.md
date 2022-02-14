@@ -78,6 +78,10 @@ Select an option: 1
 --------------------------------------------------
 ```
 
+#### Ejecucion por consola Punto 1
+![Report_1.1-](https://github.com/mariogonzcardona/LifeStore_Emtech_Beca/blob/main/Fotos/Report_1.1.png?raw=true)
+![Report_1.2-](https://github.com/mariogonzcardona/LifeStore_Emtech_Beca/blob/main/Fotos/Report_1.2.png?raw=true)
+
 #### _Para la sección del Punto 2:_
 ```sh
 --------------------------------------------------
@@ -86,6 +90,10 @@ Select an option: 1
 3. Exit
 --------------------------------------------------
 ```
+
+#### Ejecucion por consola Punto 2
+![Report_2.1](https://github.com/mariogonzcardona/LifeStore_Emtech_Beca/blob/main/Fotos/Report_2.1.png?raw=true)
+![Report_2.2](https://github.com/mariogonzcardona/LifeStore_Emtech_Beca/blob/main/Fotos/Report_2.2.png?raw=true)
 
 #### _Para la sección del Punto 3:_
 ```sh
@@ -96,6 +104,12 @@ Select an option: 1
 4. Exit
 --------------------------------------------------
 ```
+
+#### Ejecucion por consola Punto 3
+![Report_3.1](https://github.com/mariogonzcardona/LifeStore_Emtech_Beca/blob/main/Fotos/Report_3.1.png?raw=true)
+![Report_3.2](https://github.com/mariogonzcardona/LifeStore_Emtech_Beca/blob/main/Fotos/Report_3.2.png?raw=true)
+![Report_3.3](https://github.com/mariogonzcardona/LifeStore_Emtech_Beca/blob/main/Fotos/Report_3.3.png?raw=true)
+
 
 ## Licencia
 
